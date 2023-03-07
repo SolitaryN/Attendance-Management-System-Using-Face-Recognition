@@ -71,3 +71,5 @@ if (youEnjoyed) {
 
 ## Thank You
 - Author : [Nevil Parmar](https://nevilparmar.me)
+
+Attendance Management system using face recognition.  the admin user had a unknown password, you should use CLI to create the admin user, the command is that, python manage.py createsuperuser, to create admin user. But there is a admin user in database table auth_user, you need to delete the admin user record, and then create the superuser using the command above.
